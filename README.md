@@ -28,8 +28,8 @@ A --> E
 E --> I
 E --> L
 
-classDef default fill:#ffffff,stroke:#333,stroke-width:1px,textColor:#ffffff;
-classDef green fill:#f0f,stroke:#333,stroke-width:2px,textColor:#ffffff;
-classDef blue fill:#cff,stroke:#333,stroke-width:2px,textColor:#ffffff;
-classDef orange fill:#ffc,stroke:#333,stroke-width:2px,textColor:#ffffff;
-classDef purple fill:#fcc,stroke:#333,stroke-width:2px,textColor:#ffffff;
+classDef default fill:#ffffff,stroke:#333,stroke-width:1px,text-align:center,font-color:#000;
+classDef green fill:#f0f,stroke:#333,stroke-width:2px,text-align:center,font-color:#000;
+classDef blue fill:#cff,stroke:#333,stroke-width:2px,text-align:center,font-color:#000;
+classDef orange fill:#ffc,stroke:#333,stroke-width:2px,text-align:center,font-color:#000;
+classDef purple fill:#fcc,stroke:#333,stroke-width:2px,text-align:center,font-color:#000;
