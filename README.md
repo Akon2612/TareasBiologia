@@ -16,7 +16,7 @@ subgraph Postulados Teóricos
     E --> H{Todas las células provienen de células preexistentes}
 end
 
-subgraph Teorías de la Evolución Celular
+subgraph Teorias de la Evolución Celular
     I(Endosimbiosis):::orange
     I --> J{Origen de mitocondrias y cloroplastos}
     I --> K{Simbiosis entre células procariotas}
@@ -28,8 +28,8 @@ A --> E
 E --> I
 E --> L
 
-classDef default fill:#ffffff,stroke:#333,stroke-width:1px;
-classDef green fill:#f0f,stroke:#333,stroke-width:2px;
-classDef blue fill:#cff,stroke:#333,stroke-width:2px;
-classDef orange fill:#ffc,stroke:#333,stroke-width:2px;
-classDef purple fill:#fcc,stroke:#333,stroke-width:2px;
+classDef default fill:#ffffff,stroke:#333,stroke-width:1px,textColor:#ffffff;
+classDef green fill:#f0f,stroke:#333,stroke-width:2px,textColor:#ffffff;
+classDef blue fill:#cff,stroke:#333,stroke-width:2px,textColor:#ffffff;
+classDef orange fill:#ffc,stroke:#333,stroke-width:2px,textColor:#ffffff;
+classDef purple fill:#fcc,stroke:#333,stroke-width:2px,textColor:#ffffff;
