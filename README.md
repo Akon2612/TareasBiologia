@@ -1,11 +1,6 @@
 # TareasBiologia
 
 ```mermaid
-¡Claro! Para cambiar el color de las letras a negro en tu diagrama Mermaid, simplemente modifica la definición de las clases que utilizamos para asignar colores. En lugar de definir colores específicos, utilizaremos la clase predeterminada default que viene con Mermaid.
-
-Código Mermaid actualizado:
-
-Fragmento de código
 graph LR
 subgraph Definición de la Célula
     A(Unidad fundamental de vida)
