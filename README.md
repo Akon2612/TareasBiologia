@@ -1,16 +1,6 @@
 # Biologia. Actividad 4.
 
 ```mermaid
-¡Absolutamente! Vamos a transformar ese código en un mapa conceptual más visual y representativo.
-
-Comencemos por analizar lo que queremos mejorar:
-
-Visualización: Queremos que el mapa se vea más como un mapa conceptual tradicional, con ramas y jerarquías claras.
-Detalles: Podemos agregar más nodos y enlaces para profundizar en cada tema.
-Estilo: Podemos personalizar el estilo del mapa con colores, formas y tamaños de los nodos.
-Aquí te presento una nueva versión del código, con algunas modificaciones:
-
-Fragmento de código
 graph LR
     subgraph Definición de la Célula
         A(Unidad fundamental de vida) --> B{Procariotas}
