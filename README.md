@@ -10,7 +10,7 @@ subgraph Definición de la Célula
 end
 
 subgraph Postulados Teóricos
-    E(Teoría Celular)
+    E(Teoría Celular) class myStyle
     E --> F{Todos los organismos están compuestos por células}
     E --> G{La célula es la unidad básica de estructura y función}
     E --> H{Todas las células provienen de células preexistentes}
@@ -30,4 +30,3 @@ E --> L
 
 classDef default fill:#ffffff,stroke:#333,stroke-width:1px;
 classDef myStyle fill:#ffffff,stroke:#333,stroke-width:1px,color:#000;
-A(Teoría Celular) class myStyle
