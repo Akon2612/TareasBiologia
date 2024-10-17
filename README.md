@@ -10,7 +10,7 @@ subgraph Endosimbiosis
 B((Endosimbiosis))
 end
 
-A --> B
+A ----> B
 
 subgraph Postulados Teóricos
 E(Teoría Celular) --> F(Todos los seres vivos están compuestos por células)
