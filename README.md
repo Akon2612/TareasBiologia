@@ -29,3 +29,5 @@ E --> I
 E --> L
 
 classDef default fill:#ffffff,stroke:#333,stroke-width:1px;
+classDef myStyle fill:#ffffff,stroke:#333,stroke-width:1px,color:#000;
+A(Teoría Celular) class myStyle
