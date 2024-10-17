@@ -2,11 +2,15 @@
 
 ```mermaid
 graph LR
-subgraph Célula
-A(Definición) --> B(Unidad básica de la vida)
-A --> C(Estructura más pequeña capaz de realizar funciones vitales)
-A --> D(Forma todos los organismos vivos)
+subgraph Teorías de la Evolución Celular
+A((Teorías de la<br>Evolución Celular))
 end
+
+subgraph Endosimbiosis
+B((Endosimbiosis))
+end
+
+A --> B
 
 subgraph Postulados Teóricos
 E(Teoría Celular) --> F(Todos los seres vivos están compuestos por células)
