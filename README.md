@@ -2,7 +2,7 @@
 
 ```mermaid
 graph LR
-subgraph Teorías de la Evolución Celular
+subgraph Teorías_Evolución
 A((Teorías de la<br>Evolución Celular))
 end
 
@@ -10,9 +10,9 @@ subgraph Endosimbiosis
 B((Endosimbiosis))
 end
 
-A ----> B
+A -->|Evolución Celular| B
 
-subgraph Postulados Teóricos
+subgraph Postulados_Teóricos
 E(Teoría Celular) --> F(Todos los seres vivos están compuestos por células)
 E --> G(La célula es la unidad estructural y funcional de todos los seres vivos)
 E --> H(Toda célula proviene de otra célula preexistente)
@@ -20,7 +20,7 @@ I(Biogénesis) --> J(La vida solo se origina de la vida preexistente)
 I --> K(Refuta la teoría de la generación espontánea)
 end
 
-subgraph Teorías de la Evolución Celular
+subgraph Origen_y_Evolución
 L(Origen de la vida) --> M(Hipótesis sobre el origen de la primera célula)
 L --> N(Experimento de Miller y Urey)
 L --> O(Mundo de ARN)
