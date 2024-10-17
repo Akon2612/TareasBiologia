@@ -27,3 +27,5 @@ graph LR
     classDef highlighted fill:#f9f,stroke:#000,stroke-width:2px;
 
     class D,E,F,G highlighted
+
+    style all text/font-color:#000;
